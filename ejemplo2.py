@@ -1,2 +1,1 @@
-print("Scrip 2 ejecutado")
-print("Nueva info en Script 2")
+print("modifico ejemplo 2 en rama principal")
