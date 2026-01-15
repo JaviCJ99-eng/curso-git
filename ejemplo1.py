@@ -1,5 +1,4 @@
-
-print("Realizo cambios en el ejemplo 1")
+print("Se empiaza trabajar con GitHub")
 
 a = [] 
 b =  [ [] for i in range(5) ]

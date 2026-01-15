@@ -1,1 +1,1 @@
-print("modifico ejemplo 2 en rama principal")
+print("Se empiaza trabajar con GitHub")
